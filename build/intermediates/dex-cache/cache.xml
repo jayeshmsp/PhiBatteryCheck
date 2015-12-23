@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/msp/Desktop/PhiBatteryCheck/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3aed37c38c56679602255dd72ef356da5d327cda">
+        <dex dex="/home/msp/Desktop/PhiBatteryCheck/app/build/intermediates/pre-dexed/debug/classes-7a3fdcb31ea05d830a1a1941e56860c55845498d.jar" />
+    </item>
+    <item
+        jar="/home/msp/Desktop/PhiBatteryCheck/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="/home/msp/Desktop/PhiBatteryCheck/app/build/intermediates/pre-dexed/debug/classes-868f3d0942e2ca433b0c176269da18a1768833e5.jar" />
+    </item>
+    <item
+        jar="/home/msp/Desktop/PhiBatteryCheck/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="/home/msp/Desktop/PhiBatteryCheck/app/build/intermediates/pre-dexed/debug/classes-f566f525f35d3467574a26187a8405cae8419fbd.jar" />
+    </item>
+    <item
+        jar="/home/msp/Desktop/PhiBatteryCheck/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3178362320bcf51228835b60ff978efadfd1f783">
+        <dex dex="/home/msp/Desktop/PhiBatteryCheck/app/build/intermediates/pre-dexed/debug/classes-178b2be025503a205476cc8273ee9fbabf9f4c98.jar" />
+    </item>
+    <item
+        jar="/home/msp/Desktop/PhiBatteryCheck/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="041d93cf0533591c29d1d7263b2fa114dbfb20bd">
+        <dex dex="/home/msp/Desktop/PhiBatteryCheck/app/build/intermediates/pre-dexed/debug/classes-fbcc145378778b8bf538785daedffe49ed39d8e8.jar" />
+    </item>
+    <item
+        jar="/home/msp/Desktop/PhiBatteryCheck/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d93480da1d303122ee67dc3bc23e6297bdef9951">
+        <dex dex="/home/msp/Desktop/PhiBatteryCheck/app/build/intermediates/pre-dexed/debug/classes-eaecbb869019f46f431c028dc04c1220c57a38fb.jar" />
+    </item>
+    <item
+        jar="/home/msp/Desktop/PhiBatteryCheck/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="/home/msp/Desktop/PhiBatteryCheck/app/build/intermediates/pre-dexed/debug/classes-73378f988a3ddf86c474e0e33a5c03e96ef47e3e.jar" />
+    </item>
+    <item
+        jar="/home/msp/Desktop/PhiBatteryCheck/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3c729e6d76a36c5dc27e6a4c4009296f49eaa88a">
+        <dex dex="/home/msp/Desktop/PhiBatteryCheck/app/build/intermediates/pre-dexed/debug/classes-6ddb4420590745d990eba231c6a98abb904a4f61.jar" />
+    </item>
+    <item
+        jar="/home/msp/Desktop/PhiBatteryCheck/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="482de223655d06253cc6a4955d653f8994169500">
+        <dex dex="/home/msp/Desktop/PhiBatteryCheck/app/build/intermediates/pre-dexed/debug/classes-88a6ffd731168cd25b447c653a78be3b42e19745.jar" />
+    </item>
+    <item
+        jar="/home/msp/Desktop/PhiBatteryCheck/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="/home/msp/Desktop/PhiBatteryCheck/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-b690a1b9082a0967522753dae81c7383805c9643.jar" />
+    </item>
+    <item
+        jar="/home/msp/Desktop/PhiBatteryCheck/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="82825756edeeb3b56b15e73b2edd56e93da5a444">
+        <dex dex="/home/msp/Desktop/PhiBatteryCheck/app/build/intermediates/pre-dexed/debug/classes-11740e44b06893010bb029b2ed816a7492b710f4.jar" />
+    </item>
+    <item
+        jar="/home/msp/Desktop/PhiBatteryCheck/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="97f3b099801a9ad9d70e835b9125273e986eb68d">
+        <dex dex="/home/msp/Desktop/PhiBatteryCheck/app/build/intermediates/pre-dexed/debug/classes-4cade84d62b4e7b70adc72e71ea11470f67f66ee.jar" />
+    </item>
+    <item
+        jar="/home/msp/Android/SDK/extras/android/m2repository/com/android/support/support-annotations/23.1.0/support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="/home/msp/Desktop/PhiBatteryCheck/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.0-52f64203a0544c2b6189454ac79447f8d54c5eb4.jar" />
+    </item>
+    <item
+        jar="/home/msp/Desktop/PhiBatteryCheck/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="/home/msp/Desktop/PhiBatteryCheck/app/build/intermediates/pre-dexed/debug/classes-ce0da21f8c480f18d846d4b3181b210a3071336e.jar" />
+    </item>
+    <item
+        jar="/home/msp/Desktop/PhiBatteryCheck/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="95758a2905669affbffc5ddd262921d375674fad">
+        <dex dex="/home/msp/Desktop/PhiBatteryCheck/app/build/intermediates/pre-dexed/debug/classes-15d861d8a45888c1c18683730a03112eefcdead5.jar" />
+    </item>
+    <item
+        jar="/home/msp/Desktop/PhiBatteryCheck/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="997773777cf3904c11d6764fe3b7668538220e49">
+        <dex dex="/home/msp/Desktop/PhiBatteryCheck/app/build/intermediates/pre-dexed/debug/classes-4d6555f6ddba6e39d0a7f0c86e48d64e61bf9584.jar" />
+    </item>
+    <item
+        jar="/home/msp/Desktop/PhiBatteryCheck/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="17449c47df35c754b257532052f1270c444f7993">
+        <dex dex="/home/msp/Desktop/PhiBatteryCheck/app/build/intermediates/pre-dexed/debug/classes-9a21afc4b3ae89075748ec98ec4ce7291ded20c1.jar" />
+    </item>
+    <item
+        jar="/home/msp/Desktop/PhiBatteryCheck/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="/home/msp/Desktop/PhiBatteryCheck/app/build/intermediates/pre-dexed/debug/classes-ca98128a73941d449621c4cb698dcb4e5c7548a5.jar" />
+    </item>
+    <item
+        jar="/home/msp/Desktop/PhiBatteryCheck/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d294caf562c4c678b2ef351662a0ca6f1a4d06c0">
+        <dex dex="/home/msp/Desktop/PhiBatteryCheck/app/build/intermediates/pre-dexed/debug/classes-e64b467fa5725baff51ebf555e86321e4e52abc5.jar" />
+    </item>
+    <item
+        jar="/home/msp/Desktop/PhiBatteryCheck/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dcb5b75baf05d92e61d5706737200ee55949f97b">
+        <dex dex="/home/msp/Desktop/PhiBatteryCheck/app/build/intermediates/pre-dexed/debug/classes-172a647cf137183ed9c07ad37a7c99c3dab6d1d3.jar" />
+    </item>
+    <item
+        jar="/home/msp/Desktop/PhiBatteryCheck/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9cf8c0ef60847621c7ad00b4f78dbfc9daba4af2">
+        <dex dex="/home/msp/Desktop/PhiBatteryCheck/app/build/intermediates/pre-dexed/debug/classes-b10021ae0b8029ec19f126cb8dc590d689f18bad.jar" />
+    </item>
+    <item
+        jar="/home/msp/Desktop/PhiBatteryCheck/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2a7e47da654546f9457deb6132364f1bf33a1857">
+        <dex dex="/home/msp/Desktop/PhiBatteryCheck/app/build/intermediates/pre-dexed/debug/classes-4b69faa3cf5006be49b8b85ad67dacb0519be70b.jar" />
+    </item>
+    <item
+        jar="/home/msp/Desktop/PhiBatteryCheck/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="325788a04b436a0bccbc5b4c54cf0f12ebdcbd2d">
+        <dex dex="/home/msp/Desktop/PhiBatteryCheck/app/build/intermediates/pre-dexed/debug/classes-dfe9a492f681a2c80e203770d642b9ff13bd64d7.jar" />
+    </item>
+    <item
+        jar="/home/msp/Desktop/PhiBatteryCheck/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d61920aba361832a9545a43fa8c9453eb02f18f7">
+        <dex dex="/home/msp/Desktop/PhiBatteryCheck/app/build/intermediates/pre-dexed/debug/classes-c46010a291b32e9591517a14f5639418dd493774.jar" />
+    </item>
+    <item
+        jar="/home/msp/Desktop/PhiBatteryCheck/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/libs/internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="/home/msp/Desktop/PhiBatteryCheck/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.0-1342b62618672b54e5a71f04757b05e3416b75f4.jar" />
+    </item>
+    <item
+        jar="/home/msp/Desktop/PhiBatteryCheck/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b92002cb2f0e11a226ac5bac6dff1dc2a9d0b774">
+        <dex dex="/home/msp/Desktop/PhiBatteryCheck/app/build/intermediates/pre-dexed/debug/classes-e73491f122fcac0b65c65ad4c76a0c1aa8b2a48f.jar" />
+    </item>
+    <item
+        jar="/home/msp/Desktop/PhiBatteryCheck/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="993834cb17d07d51b92db89d2c330243592ebf77">
+        <dex dex="/home/msp/Desktop/PhiBatteryCheck/app/build/intermediates/pre-dexed/debug/classes-cca9e7739ba3c04b6286505f7dd2d961619165f0.jar" />
+    </item>
+    <item
+        jar="/home/msp/Desktop/PhiBatteryCheck/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3b05c18f60969ecc2ba49c0409c4b96be2d9cb0c">
+        <dex dex="/home/msp/Desktop/PhiBatteryCheck/app/build/intermediates/pre-dexed/debug/classes-c97ff49507f221546b9458fa79135020630f69c1.jar" />
+    </item>
+
+</items>
